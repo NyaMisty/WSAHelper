@@ -23,7 +23,6 @@ object DataProvider {
             "com.android.contacts",
             "com.android.documentsui",
             "com.android.gallery3d",
-            "com.android.settings",
             "com.android.traceur",
         )
     }
