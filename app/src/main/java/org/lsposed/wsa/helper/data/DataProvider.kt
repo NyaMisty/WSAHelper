@@ -19,12 +19,6 @@ object DataProvider {
 
     val hiddenPackages = lazy {
         hashSetOf(
-            "com.android.camera2",
-            "com.android.contacts",
-            "com.android.documentsui",
-            "com.android.gallery3d",
-            "com.android.settings",
-            "com.android.traceur",
         )
     }
 
