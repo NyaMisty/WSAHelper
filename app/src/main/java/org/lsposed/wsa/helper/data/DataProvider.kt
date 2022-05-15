@@ -19,6 +19,7 @@ object DataProvider {
 
     val hiddenPackages = lazy {
         hashSetOf(
+            "HIDDEN_PACKAGE_PLACEHOLDER",
         )
     }
 
